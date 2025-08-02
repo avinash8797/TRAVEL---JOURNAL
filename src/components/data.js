@@ -28,7 +28,7 @@ export default [
         imageUrl: "https://media.istockphoto.com/photos/autumn-in-ottawa-picture-id186822660?k=6&m=186822660&s=612x612&w=0&h=mwlS0CuEDDhv7Lqk5ex9edEa7xE-zctk6zRcUaa2aWQ="
     },
     {
-         id: 3,
+         id: 4,
         title: "Manali",
         location: "INDIA",
         googleMapsUrl: "https://www.google.com/maps/place/Manali,+Himachal+Pradesh/@32.2394721,77.1871198,14z/data=!3m1!4b1!4m6!3m5!1s0x39048708163fd03f:0x8129a80ebe5076cd!8m2!3d32.2431872!4d77.1891761!16zL20vMDQ2eDR4?entry=ttu&g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D",
